@@ -24,7 +24,7 @@ settings =
 	plugins = {
 		["plugin.OneSignal"] = {
 			publisherId = "tech.scotth",
-			marketplaceId = "ydlbgq"
+			marketplaceId = "replace with your marketplaceId"
 		}
 	}
 }
